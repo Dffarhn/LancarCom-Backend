@@ -1,0 +1,15 @@
+     html:
+      <!-- Sidebar -->
+         <div id="sidebarContainer"></div>
+      <!-- End of Sidebar -->
+     js : 
+       <script src="utils/sidebar/sidebarload.js"></script>
+
+    html:
+       <!-- Topbar -->
+          <div id="topbarContainer"></div>
+       <!-- End of Topbar -->
+
+    js:
+       <script src="utils/topbar/topbarload.js"></script>
+
